@@ -8,10 +8,10 @@
 
 /* Write your rules below */
 
-.button {
+.button{
   border-radius: 10px;
   box-shadow: 1px 1px 1px 0 gray;
-  color: white;
+  color: lightblue;
   padding: 5px;
   text-align: center;
   text-decoration: none;
